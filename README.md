@@ -14,7 +14,7 @@ Kindly go through all the documents for a much more detailed and scripted analys
 
 This project was made possible by a team of 5 postgraduate students and the team members contributed effortlessly to make this analysis.
 
-Team Members:
+Team Members: <br>
 JONATHAN SCHMIDT <br>
 JUAN SCAVIA <br>
 LARISSA SUHUYANLY <br>
