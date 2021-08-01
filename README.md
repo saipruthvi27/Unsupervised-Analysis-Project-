@@ -10,3 +10,13 @@ Recently, Apple has decided to approach this question from the perspective of th
 
 - The objective of this project was to to analyze and interpret an unsupervised learning problem based on survey data retrieved from case information.
 
+Kindly go through all the documents for a much more detailed and scripted analysis.
+
+This project was made possible by a team of 5 postgraduate students and the team members contributed effortlessly to make this analysis.
+
+Team Members:
+JONATHAN SCHMIDT
+JUAN SCAVIA
+LARISSA SUHUYANLY
+NEHA GOWDA
+SAI PRUTHVI KONDURU VENKATA
