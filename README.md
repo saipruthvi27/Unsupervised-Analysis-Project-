@@ -15,8 +15,8 @@ Kindly go through all the documents for a much more detailed and scripted analys
 This project was made possible by a team of 5 postgraduate students and the team members contributed effortlessly to make this analysis.
 
 Team Members:
-JONATHAN SCHMIDT
-JUAN SCAVIA
-LARISSA SUHUYANLY
-NEHA GOWDA
-SAI PRUTHVI KONDURU VENKATA
+JONATHAN SCHMIDT <br>
+JUAN SCAVIA <br>
+LARISSA SUHUYANLY <br>
+NEHA GOWDA <br>
+SAI PRUTHVI KONDURU VENKATA <br>
